@@ -22,8 +22,8 @@ Background:
   - Because in making this program, we will be able to use the different C language functions that was taught to us.
 - Why project needed?
   - We believe that this project will benefit the students by having a back up of their grades without needing access to the internet. This will come in handy eveytime the student wants to look at his/her own grades offlinee like during in Academic Advising.
-- Justify how hard is this
-  - 
+- Justify how hard is this 
+  - This program will require a lot of work because we will have to put all the grades of ten students into the program. Also, we will be combining different topics, such as arrays, structures, and strings, in order to make this program work.
   
 #Basic ECE Tools
 
@@ -36,4 +36,4 @@ Expected Topics:
 Background:
 - The program contains basic ece tools such as Resistor Color Decoder, Phasor converter, and Phasor calculator. The program starts with a menu that lets the user choose between the three options. In resistor color decoder, the user will input the four color bands of the resistor, and the program will give the value of the resistor. Then in phasor converter, the user can choose betwwen converting a phasor from rectangular to polar form or vice versa. Lastly in Phasor calculator, the user can choose between different phasor operations.
 - This project is needed because as ECE students, we need tools that can help us in our daily ECE computations.
-- This program is hard to make because we 
+- This program is hard to make because besides the fact that we are combining different topics that we haven't done before.
