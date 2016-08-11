@@ -34,6 +34,6 @@ Expected Topics:
 - Strings
 
 Background:
-- The program contains basic ece tools such as Resistor Color Decoder, Phasor converter, and Phasor calculator. The program starts with a menu that lets the user choose between the three options. In resistor color decoder, the user will input the four color bands of the resistor, and the program will give the value of the resistor. Then in phasor converter, the user can choose betwwen converting a phasor from rectangular to polar form or vice versa. Lastly in Phasor calculator, the user can choose between different phasor operations.
+- The program contains basic ece tools such as Resistor Color Decoder, Phasor converter, Phasor calculator, and linear algebra calculator. The program starts with a menu that lets the user choose between the three options. In resistor color decoder, the user will input the four color bands of the resistor, and the program will give the value of the resistor. Then in phasor converter, the user can choose betwwen converting a phasor from rectangular to polar form or vice versa. In Phasor calculator, the user can choose between different phasor operations. Finally, in linear algebra calculator, you can choose between different operations: matrices, determinants, etc.
 - This project is needed because as ECE students, we need tools that can help us in our daily ECE computations.
 - This program is hard to make because besides the fact that we are combining different topics that we haven't done before.
